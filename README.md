@@ -49,6 +49,14 @@ The project uses the following technologies:
 -   Expo
 -   Jest
 
+Screenshots
+-----------------
+
+<p align="middle">
+<img src="https://user-images.githubusercontent.com/18388202/230830087-a7c095df-ff9c-4274-9a0b-2e6aa3283916.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/18388202/230830098-56cc2bc5-794b-467d-882d-a1dbcb2c9d23.png" width=30% height=30%>
+</p>
+
 Credits
 -------
 
