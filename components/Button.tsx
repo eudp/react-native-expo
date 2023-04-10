@@ -8,7 +8,11 @@ interface Props {
 }
 
 const Button = ({ text, onPress, styleButton = {} }: Props) => (
-  <TouchableOpacity style={[styles.button, styleButton]} onPress={onPress}>
+  <TouchableOpacity
+    activeOpacity={1}
+    style={[styles.button, styleButton]}
+    onPress={onPress}
+  >
     <CustomText style={styles.buttonText}>{text}</CustomText>
   </TouchableOpacity>
 );

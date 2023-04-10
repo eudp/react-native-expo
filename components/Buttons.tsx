@@ -10,7 +10,7 @@ interface Props {
 
 const Buttons = ({ handleFilter, filter }: Props) => (
   <View style={styles.buttonContainer}>
-    {filter === FILTERS.ALL ? (
+    {filter === FILTERS.ALL && (
       <>
         <Button
           text="Ganados"
@@ -26,7 +26,8 @@ const Buttons = ({ handleFilter, filter }: Props) => (
           }}
         />
       </>
-    ) : (
+    )}
+    {filter !== FILTERS.ALL && (
       <Button
         text="Todos"
         onPress={() => {
