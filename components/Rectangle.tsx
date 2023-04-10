@@ -8,8 +8,8 @@ import CustomText from "./CustomText";
 const Rectangle = () => {
   const products = useContext(ProductsContext);
 
-  const totalPoints = useMemo<number>(
-    () => getTotalPoints(products),
+  const totalPoints = useMemo<string>(
+    () => getTotalPoints(products).toLocaleString("en-US"),
     [products]
   );
 
