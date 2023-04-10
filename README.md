@@ -53,8 +53,9 @@ Screenshots
 -----------------
 
 <p align="middle">
-<img src="https://user-images.githubusercontent.com/18388202/230830087-a7c095df-ff9c-4274-9a0b-2e6aa3283916.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/18388202/230830098-56cc2bc5-794b-467d-882d-a1dbcb2c9d23.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/18388202/230961746-ae555cf0-a031-4836-8f07-7fbe7f446de8.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/18388202/230961756-88ee9e25-7120-43e0-bd4f-b585a4a83934.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/18388202/230961785-5a8f9b5d-11b6-4581-954b-99d078b392aa.png" width=30% height=30%>
 </p>
 
 Credits
