@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SectionTitle renders correctly 1`] = `
+<Text
+  style={
+    [
+      {
+        "fontFamily": "Avenir-Regular",
+      },
+      [
+        {
+          "color": "#9B9898",
+          "fontFamily": "Avenir-Black",
+          "fontSize": 14,
+          "lineHeight": 19,
+          "marginBottom": 15,
+        },
+        {},
+      ],
+    ]
+  }
+>
+  Test Title
+</Text>
+`;

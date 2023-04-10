@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Welcome renders correctly 1`] = `
+<View
+  style={
+    {
+      "marginBottom": 20,
+    }
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Avenir-Regular",
+        },
+        {
+          "color": "#020202",
+          "fontFamily": "Avenir-Black",
+          "fontSize": 20,
+          "lineHeight": 27.32,
+        },
+      ]
+    }
+    testID="welcome-title"
+  >
+    Bienvenido de vuelta!
+  </Text>
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Avenir-Regular",
+        },
+        {
+          "color": "#020202",
+          "fontFamily": "Avenir-Regular",
+          "fontSize": 18,
+        },
+      ]
+    }
+  >
+    Ruben Rodriguez
+  </Text>
+</View>
+`;

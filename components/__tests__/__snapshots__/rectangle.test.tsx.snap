@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rectangle renders correctly 1`] = `
+<View>
+  <Text
+    style={
+      [
+        {
+          "fontFamily": "Avenir-Regular",
+        },
+        [
+          {
+            "color": "#9B9898",
+            "fontFamily": "Avenir-Black",
+            "fontSize": 14,
+            "lineHeight": 19,
+            "marginBottom": 15,
+          },
+          {
+            "textTransform": "uppercase",
+          },
+        ],
+      ]
+    }
+  >
+    Tus Puntos
+  </Text>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "backgroundColor": "#334FFA",
+        "borderRadius": 20,
+        "height": 143,
+        "justifyContent": "center",
+        "marginBottom": 20,
+        "marginLeft": 33,
+        "marginRight": 33,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 4,
+          "width": 0,
+        },
+        "shadowOpacity": 0.5,
+        "shadowRadius": 4,
+      }
+    }
+  >
+    <Text
+      style={
+        [
+          {
+            "fontFamily": "Avenir-Regular",
+          },
+          {
+            "color": "#FFFFFF",
+            "fontFamily": "Avenir-Black",
+            "fontSize": 16,
+            "left": 19,
+            "lineHeight": 22,
+            "position": "absolute",
+            "top": 21,
+          },
+        ]
+      }
+    >
+      Diciembre
+    </Text>
+    <Text
+      style={
+        [
+          {
+            "fontFamily": "Avenir-Regular",
+          },
+          {
+            "color": "#FFFFFF",
+            "fontFamily": "Avenir-Black",
+            "fontSize": 32,
+            "lineHeight": 44,
+          },
+        ]
+      }
+    >
+      -100
+       pts
+    </Text>
+  </View>
+</View>
+`;
